@@ -1,5 +1,7 @@
-# streamlit
-これは公開用のstreamlitあぷりです。
+# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
+
+import streamlit as st
 import numpy as np
 import pandas as pd
 
